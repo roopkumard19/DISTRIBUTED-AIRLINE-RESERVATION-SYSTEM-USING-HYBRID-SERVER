@@ -1,0 +1,6 @@
+#!/bin/bash
+# My first script
+
+read -s password
+echo $password > data.txt
+
